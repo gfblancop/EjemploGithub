@@ -1,0 +1,11 @@
+git status: Mira el estado de la rama
+
+-------
+En caso de querer devolverse commits se usa:
+Git log: muestra todos los commits con el hash, descripcion autor y fecha
+Git reset [hash commit]: devuelve los cambios hasta ese commit
+
+------------
+En caso de querer guardar unos cambios y pasar de rama se usa el comando :
+git stash: guarda los cambios en un "cache"  
+git stash pop: trae los cambios guardados del cache 

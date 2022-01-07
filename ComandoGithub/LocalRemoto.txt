@@ -1,0 +1,2 @@
+git init: inicia una carpeta para que ésta sea un repositorio
+git remote add origin ...: asocia un repositorio remoto (en linea) con uno local 

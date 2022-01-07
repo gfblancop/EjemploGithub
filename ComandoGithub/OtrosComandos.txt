@@ -1,0 +1,2 @@
+git add [nombre archivo]: Agregar archivos al stage
+git commit -m "[Texto del cambio]": Guarda los archivos que estan en stage
